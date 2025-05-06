@@ -6,7 +6,7 @@
 
 ## Troubleshooting
 - Ubuntu requires [Fuse]([url](https://github.com/appimage/appimagekit/wiki/fuse))
-- ![image](https://github.com/user-attachments/assets/c5b979e3-5827-406b-8966-a63a5e0b2700)
+  ![image](https://github.com/user-attachments/assets/c5b979e3-5827-406b-8966-a63a5e0b2700)
 
 ```
 sudo apt-get install -y fuse
