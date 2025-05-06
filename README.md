@@ -5,7 +5,7 @@
 ![image](https://github.com/user-attachments/assets/f6b65018-3b1e-402c-9d03-433b63e7f862)
 
 ## Troubleshooting
-- Ubuntu requires Fuse
+- Ubuntu requires [Fuse]([url](https://github.com/appimage/appimagekit/wiki/fuse))
 - ![image](https://github.com/user-attachments/assets/c5b979e3-5827-406b-8966-a63a5e0b2700)
 
 ```
