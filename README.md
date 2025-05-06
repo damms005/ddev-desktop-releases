@@ -11,3 +11,7 @@
 ```
 sudo apt-get install -y fuse
 ```
+- May need to ensure these Ubuntu essentials
+```
+sudo apt-get install fuse3 ubuntu-desktop ubuntu-desktop-minimal ubuntu-session gnome-shell-extension-desktop-icons-ng nautilus
+```
