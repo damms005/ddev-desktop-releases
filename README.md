@@ -1,17 +1,14 @@
 # DDEV Desktop Releases
 
+> [!NOTE]
+> For AppImage, you may need to run the executable with the `--no-sandbox` flag
+
 ![image](https://github.com/user-attachments/assets/578d6a11-4d6a-4b38-a6bb-ce7b39503ee5)
 
 ![image](https://github.com/user-attachments/assets/f6b65018-3b1e-402c-9d03-433b63e7f862)
 
 ## Troubleshooting
-- Ubuntu AppImage requires [Fuse]([url](https://github.com/appimage/appimagekit/wiki/fuse))
-  ![image](https://github.com/user-attachments/assets/c5b979e3-5827-406b-8966-a63a5e0b2700)
-
+- For AppImage, ensure you have [Fuse]([url](https://github.com/appimage/appimagekit/wiki/fuse)) installed
 ```
 sudo apt-get install -y fuse
-```
-- May need to ensure these Ubuntu essentials
-```
-sudo apt-get install fuse3 ubuntu-desktop ubuntu-desktop-minimal ubuntu-session gnome-shell-extension-desktop-icons-ng nautilus
 ```
