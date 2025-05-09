@@ -4,8 +4,8 @@ A must-have desktop client for the awesome [DDEV project](https://ddev.com/)
 
 ## Supported platforms
 - MacOS (Apple Silicon)
-- Linux (Ubuntu >= 22.04)
-- Windows OS
+- Linux (x64, Ubuntu >= 22.04)
+- Windows OS (x64)
 
 ### Note to Linux users
 AppImage may require [Fuse]([url](https://github.com/appimage/appimagekit/wiki/fuse)).
