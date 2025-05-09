@@ -13,11 +13,8 @@ AppImage may require [Fuse]([url](https://github.com/appimage/appimagekit/wiki/f
 sudo apt-get install -y fuse
 ```
 
-> [!IMPORTANT]
-> You may need to run the AppImage with the `--no-sandbox` flag
-
-> [!IMPORTANT]
-> Windows require at least PowerShell v7.5
+### Note for Windows
+At least [PowerShell v7](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.5#install-powershell-using-winget-recommended) is required, and it is currently required to be installed to its default location `C:\Program Files\PowerShell\7\pwsh.exe`
 
 ![image](https://github.com/user-attachments/assets/578d6a11-4d6a-4b38-a6bb-ce7b39503ee5)
 
