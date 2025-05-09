@@ -13,7 +13,7 @@ AppImage may require [Fuse]([url](https://github.com/appimage/appimagekit/wiki/f
 sudo apt-get install -y fuse
 ```
 
-> [!WARNING]
+> [!IMPORTANT]
 > You may need to run the AppImage with the `--no-sandbox` flag
 
 ![image](https://github.com/user-attachments/assets/578d6a11-4d6a-4b38-a6bb-ce7b39503ee5)
