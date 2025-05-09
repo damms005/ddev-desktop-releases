@@ -7,7 +7,7 @@ A must-have desktop client for the awesome [DDEV project](https://ddev.com/)
 - Linux (x64, Ubuntu >= 22.04)
 - Windows OS (x64)
 
-### Note to Linux users
+### Note for Linux
 AppImage may require [Fuse]([url](https://github.com/appimage/appimagekit/wiki/fuse)).
 ```
 sudo apt-get install -y fuse
@@ -15,6 +15,9 @@ sudo apt-get install -y fuse
 
 > [!IMPORTANT]
 > You may need to run the AppImage with the `--no-sandbox` flag
+
+> [!IMPORTANT]
+> Windows require at least PowerShell v7.5
 
 ![image](https://github.com/user-attachments/assets/578d6a11-4d6a-4b38-a6bb-ce7b39503ee5)
 
