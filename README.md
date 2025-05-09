@@ -1,6 +1,8 @@
 # DDEV Desktop Releases
 
-A must-have desktop client for the awesome [DDEV project](https://ddev.com/)
+A must-have desktop client for the awesome [DDEV project](https://ddev.com/).
+
+Latest releases are available on the [releases](https://github.com/damms005/ddev-desktop-releases/releases) page.
 
 ## Supported platforms
 - macOS (Apple Silicon)
@@ -9,9 +11,7 @@ A must-have desktop client for the awesome [DDEV project](https://ddev.com/)
   ### Upcoming platforms support
 - macOS (Intel)
 - Windows OS (x64)
-
-> [!NOTE]
-> You can download latest version from the [releases page](https://github.com/damms005/ddev-desktop-releases/releases).
+- `rpm` install option
 
 ### Note for Linux
 The `.deb` install option does not require additional setup or requirement. AppImage may require [Fuse]([url](https://github.com/appimage/appimagekit/wiki/fuse)).
