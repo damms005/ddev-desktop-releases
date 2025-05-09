@@ -5,13 +5,13 @@ A must-have desktop client for the awesome [DDEV project](https://ddev.com/).
 Latest releases are available on the [releases](https://github.com/damms005/ddev-desktop-releases/releases) page.
 
 ## Supported platforms
-- macOS (Apple Silicon)
-- Linux (x64, Ubuntu >= 22.04)
+- macOS (Apple Silicon) - `.dmg` 
+- Linux (x64, Ubuntu >= 22.04) - `.deb` and `AppImage`
 
   ### Upcoming platforms support
 - macOS (Intel)
 - Windows OS (x64)
-- `rpm` install option
+- `rpm` install option for Linux
 
 ### Note for Linux
 The `.deb` install option does not require additional setup or requirement. AppImage may require [Fuse]([url](https://github.com/appimage/appimagekit/wiki/fuse)).
