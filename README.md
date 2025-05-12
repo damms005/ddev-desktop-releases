@@ -20,7 +20,7 @@ The `.deb` install option does not require additional setup or requirement. AppI
 sudo apt-get install -y fuse
 ```
 
-#### Note for Windows (partial support)
+#### Note for Windows
 At least [PowerShell v7](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.5#install-powershell-using-winget-recommended) is required, and it is required to be installed to its default location `C:\Program Files\PowerShell\7\pwsh.exe`
 
 ## Screenshots
