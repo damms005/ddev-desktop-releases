@@ -2,9 +2,8 @@
 
 A must-have desktop client for the awesome [DDEV project](https://ddev.com/).
 
-Latest releases are available on the [releases](https://github.com/damms005/ddev-desktop-releases/releases) page.
-
 ## Installation
+Ensure you have [DDEV installed](https://ddev.readthedocs.io/en/stable/users/install/ddev-installation/) and running, then download latest releases from the [releases](https://github.com/damms005/ddev-desktop-releases/releases) page.
 
 ### Supported platforms
 - macOS (Apple Silicon) - `.dmg` 
