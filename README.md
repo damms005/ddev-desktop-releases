@@ -8,7 +8,7 @@ Ensure you have [DDEV installed](https://ddev.readthedocs.io/en/stable/users/ins
 ### Supported platforms
 - macOS (Apple Silicon) - `.dmg` 
 - Linux (x64, Ubuntu >= 22.04) - `.deb` and `AppImage`
-- Windows OS (x64) - 
+- Windows OS (x64) - `.exe`
 
 #### Note for Linux
 The `.deb` install option does not require additional setup or requirement. AppImage may require [Fuse]([url](https://github.com/appimage/appimagekit/wiki/fuse)).
